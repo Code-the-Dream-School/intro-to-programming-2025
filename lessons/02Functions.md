@@ -1,5 +1,3 @@
-## UPDATE: Scrimba has updated from version 1 to version 2 in May 2024. Some of the screenshots below show you version 1 so you may see something different if you're using version 2. 
-
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
