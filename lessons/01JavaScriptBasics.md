@@ -1,4 +1,4 @@
-Students have access to **[V2 Scrimba - Courses](https://v2.scrimba.com/courses))** and all of their courses _(be sure you have used the coupon code link shared in your class' Slack channel to gain access)_. Scrimba is an interactive learning platform where students can interact with the video content code editor.  
+Students have access to **[V2 Scrimba - Courses](https://v2.scrimba.com/courses)** and all of their courses _(be sure you have used the coupon code link shared in your class' Slack channel to gain access)_. Scrimba is an interactive learning platform where students can interact with the video content code editor.  
 
 ### Scrimba
 
