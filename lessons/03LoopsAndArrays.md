@@ -1,5 +1,3 @@
-## UPDATE: Scrimba has updated from version 1 to version 2 in May 2024. Some of the screenshots below show you version 1 so you may see something different if you're using version 2. 
-
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 - [V2 Scrimba - JS Deep Dive - Arrays](https://v2.scrimba.com/javascript-deep-dive-c0a/~01h)
