@@ -1,0 +1,14 @@
+## UPDATE: Scrimba has updated from version 1 to version 2 in May 2024. Some of the screenshots below show you version 1 so you may see something different if you're using version 2. Links for both versions (in case one is not loading properly etc) are below for the first several weeks
+
+You can either use the written Odin Project lessons or the video lessons in Scrimba.
+
+Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
+
+- [The Odin Project – Fundamentals Part 3](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-3)
+- [JavaScript.info – Working with Dates and Times](https://javascript.info/date)
+
+VERSION 1:
+- [V1 Scrimba - JS Deep Dive - Functions](https://v1.scrimba.com/playlist/pVLDVUE)
+
+VERSION 2:
+- [V2 Scrimba - JS Deep Dive - Functions](https://v2.scrimba.com/javascript-deep-dive-c0a/~0q)
