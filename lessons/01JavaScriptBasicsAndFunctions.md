@@ -32,6 +32,10 @@ For the Odin Project, Go to each link in this list and read through the content 
 - [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-borr/wiki/Foundations:-Problem-Solving)
 - [The Odin Project – Fundamentals Part 1](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-1)
 - [The Odin Project – Fundamentals Part 2](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-2)
+- [The Odin Project – Fundamentals Part 3](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-3)
+- [JavaScript.info – Working with Dates and Times](https://javascript.info/date)
 
 - [V2 Scrimba - JS Deep Dive - Variables and Strings](https://v2.scrimba.com/javascript-deep-dive-c0a/~04)
 - [V2 Scrimba - JS Deep Dive - Types & Conditionals](https://v2.scrimba.com/javascript-deep-dive-c0a/~0g)
+- [V2 Scrimba - JS Deep Dive - Functions](https://v2.scrimba.com/javascript-deep-dive-c0a/~0q)
+You can either use the written Odin Project lessons or the video lessons in Scrimba.
