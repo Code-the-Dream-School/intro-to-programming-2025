@@ -25,17 +25,20 @@ You click the name of the section you're on in the bottom left to go back to the
 
 ![V2 Return to Course Menu](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/249e6d0521e5536abe9160f0a7c8d54033113035/v2Scrimba%20get%20back%20to%20menu.png?raw=true)
 
-**You can _either_ use the written Odin Project lessons _or_ the video lessons in Scrimba.**. You can do both if you have them time and want to.
 
+## You can _either_ use the written Odin Project lessons _or_ the video lessons in Scrimba. You can do both if you have them time and want to, but using just one or the other will teach what is needed to complete the coding assignments.
 For the Odin Project, Go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
 
-- [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-borr/wiki/Foundations:-Problem-Solving)
+### Odin Project
+- [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-2025/wiki/Problem-Solving)
 - [The Odin Project – Fundamentals Part 1](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-1)
 - [The Odin Project – Fundamentals Part 2](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-2)
 - [The Odin Project – Fundamentals Part 3](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-3)
-- [JavaScript.info – Working with Dates and Times](https://javascript.info/date)
 
+### Scrimba
 - [V2 Scrimba - JS Deep Dive - Variables and Strings](https://v2.scrimba.com/javascript-deep-dive-c0a/~04)
 - [V2 Scrimba - JS Deep Dive - Types & Conditionals](https://v2.scrimba.com/javascript-deep-dive-c0a/~0g)
 - [V2 Scrimba - JS Deep Dive - Functions](https://v2.scrimba.com/javascript-deep-dive-c0a/~0q)
-You can either use the written Odin Project lessons or the video lessons in Scrimba.
+
+### JavaScript Info on Date and Time - read this content in addition to either Odin or Scrimba
+- [JavaScript.info – Working with Dates and Times](https://javascript.info/date)
