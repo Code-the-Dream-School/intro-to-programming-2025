@@ -1,3 +1,12 @@
+### Learning Objectives
+ - Find out what a repository is, how it is used, and the benefits of version control systems like git
+ - Practice commits which will help you refer back to your files and their content as they were at a point in history
+ - Discover ways to look through the history of a repository to see how it changed over time
+ - Begin using GitHub to backup your local work and keep version history information with that work
+ - OPTIONAL: Begin learning about and practice writing algorithms which are instructions written with the purpose of getting a solution
+
+***
+
 # Get ready for git!
 
 This week you'll be learning about git version control, and you'll start using a cloud-based git repository program called GitHub to complete your coding assignments.  There are several programs developers use as they build, test, and deploy/publish their code.  While you're welcome to use any tools/combination of tools you prefer, we recommend using [Visual Studio Code](https://code.visualstudio.com/).  Visual Studio Code is an IDE (Integrated Development Environment).  IDEs are helpful programs that combine several tools (a text editor, the command line/terminal, file organization, and more) into one program.  If you aren't currently using an IDE of your own preference, you should watch the video below and install Visual Studio Code and suggested extensions in the video before you start this week's assignment.
