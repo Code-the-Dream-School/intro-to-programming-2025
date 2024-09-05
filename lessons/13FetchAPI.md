@@ -1,3 +1,12 @@
+### Learning Objectives
+ - Begin learning about APIs from the context of using Fetch API
+ - Write a basic Fetch request to obtain data from an API
+ - Consider how errors in the API request can and should be handled
+ - Learn how data can be sent to data source by posting data with Fetch
+ - Build on your previous lesson about promises by using Async/Await instead of default Promise.then()
+
+***
+
 Go through **both** resources (Odin **and** Scrimba) for this topic as they will help you gain a more clear understanding of this topic.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
