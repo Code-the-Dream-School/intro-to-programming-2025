@@ -1,3 +1,10 @@
+### Learning Objectives
+ - Find out what Node is and how Node Package Manager (NPM) works
+ - Learn how to install packages in an application and why you would need or want to
+ - Discover what the package.json file is and the purpose and function of it
+
+***
+
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
 
 - **[The Odin Project – What is Node?](https://www.theodinproject.com/lessons/nodejs-introduction-what-is-nodejs)**
