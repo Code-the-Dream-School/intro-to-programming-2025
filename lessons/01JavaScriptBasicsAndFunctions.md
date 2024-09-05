@@ -3,6 +3,9 @@
  - Learn the basic syntax rules of JavaScript
  - Understand what variables, data types, conditional statements, and functions are and how they are used
  - Begin to learn and work with ways of troubleshooting problems
+ - Learn what functions are, how they are written, and the benefits of their use
+ - Understand how data can be passed to a function to use inside the function
+ - Learn what arrow functions are and when and why they are used
 
 ***
 
