@@ -1,19 +1,25 @@
 ### Final Project Submission Details
 
-Final week!  This week you'll finish any work on your Portfolio and Open API projects.  Be sure you've merged any open pull requests to the main branches for both of your projects when your work is completed and before you submit.  When you submit your projects, you'll use your usual Assignment Submission process (the button at the bottom of your lesson page) and put your portfolio repository link in the "Link to your Coding Assignment / Pull Request / Final Project Repository" field.  It should look like `https://github.com/yourUsername/yourRepositoryName`.  Use the "Link to your SECOND Coding Assignment / Pull Request / Final Project Repository" field to submit your Open API project.  It should look like `https://github.com/yourUsername/yourOpenAPIProjectName`.  The form will have new questions on it regarding what you would like to do next with our program.
+Final week!  
+
+This week you'll finish any work on your Portfolio and Open API projects.  Be sure you've merged any open pull requests to the main branches for both of your projects when your work is completed and before you submit.  When you submit your projects, you'll use your usual Assignment Submission process (the button at the bottom of your lesson page) and put your portfolio repository link in the "Link to your Coding Assignment / Pull Request / Final Project Repository" field.  
+It should look like `https://github.com/yourUsername/yourRepositoryName`.  
+Use the "Link to your SECOND Coding Assignment / Pull Request / Final Project Repository" field to submit your Open API project.  
+It should look like `https://github.com/yourUsername/yourOpenAPIProjectName`.  
+The form will have new questions on it regarding what you would like to do next with our program.
 
 As long as your final projects meet rubric requirements and you've taken/passed your assessment (which was emailed to you at the start of this lesson week) you will advance to the next course of your choosing.
 
 ### Project Demo Details
 
 It is good practice to talk about what you have learned and know about project as you will be asked to talk about your experiences in job interviews.  This is why we ask all students to give a short demo of their final projects.  This demo is NOT graded and your performance in the demo will have no bearing on your graduation.  Please prepare a 3-5 minute presentation that touches on all of the following:
- [ ] Scroll the length of your portfolio to show your format and styling of your content
- [ ] Demonstrate your form section by entering one or two user entries and showing if/how entries can be edited or deleted
- [ ] Enter Inspector/Developer Mode to demonstrate how your portfolio looks on different device sizes
- [ ] Scroll the length of your Open API project to show your format and styling of your content
- [ ] Demonstrate your navigation to show that both required endpoints are displaying to the user
- [ ] Enter Inspector/Developer Mode to demonstrate how your portfolio looks on different device sizes
- [ ] Share what the most challenging part of either/both projects and what you enjoyed working on the most in either/both projects
+ - [ ] Scroll the length of your portfolio to show your format and styling of your content
+ - [ ] Demonstrate your form section by entering one or two user entries and showing if/how entries can be edited or deleted
+ - [ ] Enter Inspector/Developer Mode to demonstrate how your portfolio looks on different device sizes
+ - [ ] Scroll the length of your Open API project to show your format and styling of your content
+ - [ ] Demonstrate your navigation to show that both required endpoints are displaying to the user
+ - [ ] Enter Inspector/Developer Mode to demonstrate how your portfolio looks on different device sizes
+ - [ ] Share what the most challenging part of either/both projects and what you enjoyed working on the most in either/both projects
 
 Rubric details for the Portfolio Project and the Open API Project can be seen below.  Be sure both your projects meet the requirements specified for each:
 
