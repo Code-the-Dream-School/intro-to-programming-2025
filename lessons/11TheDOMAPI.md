@@ -1,3 +1,12 @@
+### Learning Objectives
+ - Find out what the Document Object Model (DOM) is and how pages are structured
+ - Discover ways to change the DOM
+ - Learn how to use the DOM to respond to user interactions
+ - Practice traveling through the DOM (called Traversal) to identify and work with parts of your web page document
+ - Learn about event handling so you can implement it in your portfolio site
+
+***
+
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
