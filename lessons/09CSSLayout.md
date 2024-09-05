@@ -3,7 +3,7 @@
  - Practice working with layouts in the context of using the flexbox model
  - Learn the details of the flexbox model and its properties
  - Build a layout using flexbox
- - OPTIONAL: Learn about CSS grid model and practice it in the context of your portfolio project
+ - OPTIONAL: Get introduced to CSS grid model which you will be learning about next lesson
 ***
 
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
@@ -24,8 +24,8 @@ Remember to please go to each link in this list and read through the content on 
 - **[Creating the layout - The CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~0s)**
 - **[Scrimba - Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k/~00)**
 
-### STRETCH GOAL (optional):
-- **[CSS Grid Model guide](https://css-tricks.com/snippets/css/complete-guide-grid/)**
-
 ### ADDITIONAL RESOURCES:
 It's been a while since we gave you a fun game! Check out [Flexbox Froggy](https://flexboxfroggy.com/) for a fun way to practice writing your CSS flexbox model code
+
+### STRETCH GOAL (optional):
+- **[CSS Grid Model guide](https://css-tricks.com/snippets/css/complete-guide-grid/)**
