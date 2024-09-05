@@ -1,3 +1,11 @@
+### Learning Objectives
+ - Gain an understanding of what JavaScript is and where it is used.
+ - Learn the basic syntax rules of JavaScript
+ - Understand what variables, data types, conditional statements, and functions are and how they are used
+ - Begin to learn and work with ways of troubleshooting problems
+
+***
+
 Students have access to **[V2 Scrimba - Courses](https://v2.scrimba.com/courses)** and all of their courses _(be sure you have used the coupon code link shared in your class' Slack channel to gain access)_. Scrimba is an interactive learning platform where students can interact with the video content code editor.  
 
 ### Scrimba
