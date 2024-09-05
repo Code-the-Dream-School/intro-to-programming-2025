@@ -102,6 +102,7 @@ _NOTE:_ If you do not have a Connect or Contact Me section, your links should be
 
 #### Styling
 Everyone's style is different and we encourage students to let the style fo their site represent them.  That being said, there are some general style guidelines we encourage you to follow:
+ - [ ] Bootstrap is not permitted, you need to write your CSS code to gain practice and understanding of the technology
  - [ ] Remember to have appropriate contrast to your site (don't use a dark font on a dark background
  - [ ] You should not need to horizontally scroll to see your site content on any device (mobile, tablet, or desktop)
  - [ ] Watch out for font sizes on smaller devices.  The screen is smaller, but the font size should not be small also.  This is also true for form input fields/buttons, a user would need to tap on it with a finger to get focus on the input to type, don't make it too small that their device can't recognize what they're trying to tap on.
@@ -120,25 +121,26 @@ Use one of the following open source APIs to create a site that accesses a minim
 * [ARTIC](https://api.artic.edu/docs/#introduction) – an art API from the Art Institute of Chicago
 * [TheDogAPI](https://thedogapi.com/) or the [TheCatAPI](https://thecatapi.com/) – APIs about (you guessed it!) Dogs or Cats
 * [SampleAPIs](https://sampleapis.com/api-list/coffee) – an API for coffee lovers
+* You are allowed to explore other API options and use them, but you must propose that API and how you would use it to your Cohort Leader before proceeding with your project
 
-Be sure to satisfy the below requirements in your Open API Project:
+Be sure to satisfy the below requirements in your Open API Project.  These are minimum requirements, you are welcome to build beyond these:
 
 ### STRUCTURE:
  - [ ] A public GitHub repository containing your project
  - [ ] An HTML document for the page
- - [ ] A CSS document to style the HTML page
- - [ ] A JavaScript file that retrieves data from one of several public API sources to display the data on your HTML page
- - [ ] A README file that includes the instructions for running the webpage (This does not need to be a live site; you can instruct the user to download and run locally)
+ - [ ] A CSS document to style the HTML page (bootstrap is not permitted)
+ - [ ] A JavaScript file that retrieves data from one of several public API sources to display two data endpoints using two different GET requests
+ - [ ] A README file that includes the instructions for running the webpage (This does not need to be a deployed/live site; you can instruct the user to download and run locally)
 
 ### CONTENT:
  - [ ] Display the data for at least 2 endpoints in the API
- - [ ] Include navigation from each endpoint’s page to the other (Example: if using the weather app, one navigation link should display the temperature details and the second navigation link should display the weather condition)
- - [ ] Issue new GET requests each time the user click a navigation link, meaning you should have 2 GET requests - one for each navigation, that requests only the needed information (Example: if using the weather app, clicking temperature navigation link should pull only data that allows user to see temperatures and clicking conditions navigation link should pull only data that allows user to see weather conditions)
+ - [ ] Include navigation from each endpoint’s page to the other (Example: if using the weather app, one navigation link could display the temperature details and the second navigation link could display the weather condition)
+ - [ ] Issue new GET requests each time the user click a navigation link, meaning you should have 2 GET requests - one for each navigation item, that requests only the needed information (Example: if using the weather app, clicking temperature navigation link should pull only data that allows user to see temperatures and clicking conditions navigation link should pull only data that allows user to see weather conditions)
 
 ### FUNCTIONALITY:
  - [ ] Code runs without issues by following the instructions in the README file
  - [ ] Navigation between the different endpoints behaves properly and is not slowed down by requesting more data than needs to be displayed (this is the reason for the 2 separate GET requests)
  - [ ] Code is readable and well structured
  - [ ] If applicable, error cases are appropriately handled
- - [ ] Styling is effective (example: font-sizes are not too small or large, colors are not too dark/light to be easily seen, etc.)
+ - [ ] Styling is effective and includes media queries so the site is reponsive (example: font-sizes are not too small or large, colors are not too dark/light to be easily seen, etc.)
 </details>
