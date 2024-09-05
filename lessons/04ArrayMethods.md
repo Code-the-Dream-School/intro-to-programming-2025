@@ -1,3 +1,12 @@
+### Learning Objectives
+ - Use methods on arrays to understand how arrays and/or parts of their can be manipulated or worked with
+ - Begin learning about iterative methods that can work with each item within an array
+ - Learn the structuring of callback functions and the logic of running one function after another so as to work with results of the first
+ - Start creating higher order functions that accept functions as parameters or return functions
+ - Use existing higher order array functions to iterate through arrays (examples include forEach, map, and filter to name a few)
+
+***
+
 - [V2 Scrimba - JS Deep Dive - Objects & Maps](https://v2.scrimba.com/javascript-deep-dive-c0a/~01d)
 - **NOTE: Watch only the rest of the videos in the playlist (the last 3 you were instructed to skip last week).**
 
