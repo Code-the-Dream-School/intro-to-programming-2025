@@ -1,3 +1,13 @@
+### Learning Objectives
+ - Learn a brief history of the internet and the web and how the web works
+ - Learn the structure and format of URLs
+ - Understand what domain names are and where in the URL they are used
+ - Understand what IP addresses
+ - Learn about the Domain Name System to see how ip addresses are used with domain names
+ - Find out what HTTP and HTTPS mean, the differences between them, and how they are used
+
+***
+
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there also.
 
 **Note:** The Scrimba course does not cover as much detail as the Odin Project on these topics so only those video lessons as a review of the basics of HTML.
