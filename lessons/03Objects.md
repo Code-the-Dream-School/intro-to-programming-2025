@@ -1,3 +1,11 @@
+### Learning Objectives
+ - Learn what an object is and how it is written
+ - Understand the difference betwee primitive and object data types
+ - Practice destructuring objects so you can work with individual values within an object
+ - Manipulate objects to see how they can be changed or ammended
+
+***
+
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
