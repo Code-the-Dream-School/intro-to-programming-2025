@@ -1,3 +1,11 @@
+### Learning Objectives
+ - Practice working with git commands in the context of a visual game
+ - Improve your understanding of git version control and familiarity with git commands and what they do
+ - Visualize how repositories can be duplicated, altered, shared, and more through the use of git
+ - OPTIONAL: Continue working with, or begin working with algorithms to help improve your problem solving strategies in order to write more effective code
+
+***
+
 ### Getting Deeper into Git
 
 Read through the first two links which help explain git branching and merges, the workflow you'll be using throughout class.  Then watch the video which helps demonstrate that workflow from the context of team development (multiple people working on the same code base).  Finally, complete the Coursera course.
