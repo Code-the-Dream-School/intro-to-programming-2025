@@ -1,3 +1,11 @@
+### Learning Objectives
+ - Learn what CSS (Cascading Style Sheets) is and the ways in which it can be used (such as inline, internal, and external)
+ - Learn about selectors, values, and units which will allow you to change the look of specific parts of a web page
+ - Gain understanding of some fundamental concepts about CSS such as the heirarchy which determines which values are used if more than one value is specified
+ - Discover the CSS Box Model to learn the differences between margins, borders, padding, and content
+
+***
+
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 Rememebr to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
