@@ -1,3 +1,10 @@
+### Learning Objectives
+ - Learn about asynchronous code and consider how it can improve user experiences
+ - Discover what a Promise is in JavaScript
+ - Find out how to work with Promises and practice them
+
+***
+
 Go through **both** resources (Odin **and** Scrimba) for this topic as they will help you gain a more clear understanding of this topic.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
