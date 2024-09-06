@@ -1,12 +1,3 @@
-### Learning Objectives
- - Learn basic design principles related to how you format content
- - Discover what Responsive Design is and the mobile-first approach in order to accommodate users on different sized devices
- - Learn about and build Media Queries to style your portfolio differently depending on device size
- - Build flexible layouts into your portfolio site
- - Find an alternate layout model (CSS grid model) that can be used with more complex content formatting needs
-
-***
-
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
