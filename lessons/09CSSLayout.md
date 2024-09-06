@@ -1,11 +1,3 @@
-### Learning Objectives
- - Learn more CSS properties to allow you to change the look of your content
- - Practice working with layouts in the context of using the flexbox model
- - Learn the details of the flexbox model and its properties
- - Build a layout using flexbox
- - OPTIONAL: Get introduced to CSS grid model which you will be learning about next lesson
-***
-
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
