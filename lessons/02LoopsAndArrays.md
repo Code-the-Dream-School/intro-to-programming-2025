@@ -1,10 +1,3 @@
-### Learning Objectives
-- Learn the syntax and value of using loops for repetitive tasks
-- Practice writing and working with 'for' loops to avoid infinite loops
-- Learn about the structure and purpose of arrays
-
-***
-
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 - [V2 Scrimba - JS Deep Dive - Arrays](https://v2.scrimba.com/javascript-deep-dive-c0a/~01h)
