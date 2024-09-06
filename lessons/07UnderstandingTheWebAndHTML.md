@@ -1,17 +1,3 @@
-### Learning Objectives
- - Learn a brief history of the internet and the web and how the web works
- - Learn the structure and format of URLs
- - Understand what domain names, IP addresses, and the Domain Name System are and begin to see how IP addresses are used with domain names
- - Find out what HTTP and HTTPS mean, the differences between them, and how they are used
- - Begin learning about and practice writing HTML (Hypertext Markup Language)
- - Practice formatting page content using HTML and learn about inline versus block level elements
- - Understand and work with file paths to see how files in different locations can be referenced or used within another file
- - Learn how to display visual content like images in an HTML file
- - Find out what HTML elements can help create and work with forms to allow a user to provide data using input elements
- - Get an introduction to Web Accessibility basics which allow a web page to reach more people
-
-***
-
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there also.
 
 **Note:** The Scrimba course does not cover as much detail as the Odin Project on these topics so only those video lessons as a review of the basics of HTML.
