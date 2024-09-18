@@ -1,6 +1,6 @@
 ### Getting Deeper into Git
 
-Read through the first two links which help explain git branching and merges, the workflow you'll be using throughout class.  Then watch the video which helps demonstrate that workflow from the context of team development (multiple people working on the same code base).  Finally, complete the Coursera course.
+Read through the first two links which help explain git branching and merges, the workflow you'll be using throughout class.  Then watch the video which helps demonstrate that workflow from the context of team development (multiple people working on the same code base).  Finally, take a look at the Coursera course with "Module 4 - Collaboration" being your primary focus.  You do not need to complete the full course, but you're welcome to look at it at your convenience throughout the remainder of the class. 
 
 * [Atlassian - using branches](https://www.atlassian.com/git/tutorials/using-branches)
 * [Atlassian - git merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
@@ -11,7 +11,7 @@ _**You’ll need to click the link above or click the link where the video would
 
 * [Coursera: git - GitHub introduction](https://www.coursera.org/learn/introduction-git-github) (a free full course on it that covers a lot more)
 
-**NOTE:** Coursera may indicate you can only access this lesson with a free 7-day trial.  You can avoid this by clicking on "Enroll for Free" the clicking the small "Audit this course" link at the bottom (see image below...)
+**NOTE:** Coursera may indicate you can only access this lesson with a free 7-day trial.  You can avoid this by clicking on "Enroll for Free" the clicking the small "Audit this course" link at the bottom (see image below...)  If you already have your own personal Coursera account, you won't be offered the audit option so please reach out to your Cohort Leader for assistance.  
 
 ![7-day free trial modal](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/b3d6133ab2aa15b3232ffdcd36ac8f5d4bf47d97/Audit.png?raw=true) 
 
