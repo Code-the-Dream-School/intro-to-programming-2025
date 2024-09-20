@@ -7,4 +7,5 @@ If downloading isn't working out for you, or you just want a different game to p
 There is no coding assignment to work on or turn in this week so please enter "no code this week" in the 'URL' field of your assignment submission form and use the 'Questions' field to share your thoughts on either or both of these games!
 
 **REMINDER**
+
 If you are completing work on the Algorithms Stretch Goal this lesson, you should go to your "Lesson 4 - Array Methods and Algorithm Stretch Goal" repl from last week's coding assignment and work on the practice exercises below the "Stretch Goal on Algorithms Below" header in the code.
