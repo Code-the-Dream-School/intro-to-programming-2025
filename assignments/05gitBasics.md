@@ -48,3 +48,6 @@ Now let's make sure that lesson branch will be reviewed.
    - If you're behind or are working ahead:  
      - if you're confident your work is accurate, merge your pull request and continue working through class.
      - if you're not sure about your work this week, schedule a 1:1 session with a mentor and review your work together before merging.
+    
+### REMINDER
+If you are completing work on the Algorithms Stretch Goal this lesson, you should go to your "Lesson 4 - Array Methods and Algorithm Stretch Goal" repl from last week's coding assignment and work on the practice exercises below the "Stretch Goal on Algorithms Below" header in the code.
