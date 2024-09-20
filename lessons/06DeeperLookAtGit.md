@@ -37,4 +37,4 @@ An algorithm is like a secret recipe that lays out a series of steps. If you sti
 2. Read this [article](https://www.geeksforgeeks.org/introduction-to-algorithms/).  We won’t be getting into the types of algorithms but it’s a good overview of how algorithms are part of a developer’s daily life. 
 3. Once again, same info, but [a video](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) from Khan Academy.
 
-_**While there is no stretch goal assignment associated with this stretch goal lesson material, you can always search for algorithm problem practice and/or keep working with and practicing the Interview Challenges from Scrimba at the top of this section.**_
+_**You can always search for algorithm problem practice and/or keep working with and practicing the Interview Challenges from Scrimba at the top of this section.  If you didn't complete the practice exercises at the bottom of your Lesson 4 replit you can revisit those too!**_
