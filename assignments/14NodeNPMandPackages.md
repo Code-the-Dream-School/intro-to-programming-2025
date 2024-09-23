@@ -101,7 +101,7 @@ Now let's make sure that lesson branch will be reviewed.
 
  - [ ] Go to your GitHub repository page in your web browser now, and you should see a "debugging has a recent push" notice with a green "Compare & pull request" button. Click that button
  - [ ] Feel free to put notes to yourself or notes for your reviewer in the description (be sure you're including any questions to your reviewer in your assignment submission form though!) and click the green "Create pull request" button.
- - [ ] Copy the address of your pull request page (should look like https://github.com/yourUsername/intro-to-programming-debugging/pull/1) and paste it into your assignment submission form. Remember to also submit your pull request to your work in progress for your Open API Project in the "questions" field of your form if you'd like your work looked at.
+ - [ ] Copy the address of your pull request page (should look like `https://github.com/yourUsername/intro-to-programming-debugging/pull/1`) and paste it into your assignment submission form. Remember to also submit your pull request to your work in progress for your Open API Project in the "questions" field of your form if you'd like your work looked at.
 
 ### What next?
 If you found all 8 bugs and completed all the optional stretch goals, congratulations!
