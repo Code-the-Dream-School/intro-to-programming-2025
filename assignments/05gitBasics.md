@@ -35,6 +35,7 @@ Make sure your code gets copied to GitHub by adding changes to staging, committi
    - [ ] **NOTE:** if you get a "fatal: The current branch..." error message.  READ the message and follow the instructions in that message to confirm that you push your work to your GitHub account.
 
 **_By this point, you should have a local folder on your machine that has a README.md and index.html file, and your lesson-5 branch of your GitHub repository should also have your README.md and index.html files.  You can find your lesson-5 branch by clicking on the main button in your GitHub repository.  You should see the list of all your branches (main and lesson-5) there.  See image below for example:_**
+
 ![branch drop down in GitHub repository](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/5e3d47bcdc1ad5b6a72a75cc5694f459ce0b5024/mainBranch.png?raw=true)
 
 ### Submit Assignment
