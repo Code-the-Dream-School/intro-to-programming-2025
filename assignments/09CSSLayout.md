@@ -9,7 +9,7 @@ Last week you worked with styling.  This week lets work a little more with forma
    - [ ] In your index.html file, add a navigational header to your webpage using the `<nav>` element.
    - [ ] Add two sections to your index.html file:
      - [ ] The first section will be "Skills".  Use an h2 tag as you did with your About, Experience, and Connect sections, and be sure to include the id property in the element.  You can leave the section empty for now.  In later weeks we'll use JavaScript to insert a list of your skills.
-     - [ ] The second section will be "Projects".  Use an h2 tag as you did with your About, Experience, and Connect sections, and be sure to include the id property in the element.  You can leave the section empty for now.  In later weeks we'll use JavaScript to pull a list of your project repositories from your GitHub account using their API.
+     - [ ] The second section will be "Projects".  Use an h2 tag as you did with your About, Experience, and Connect sections, and be sure to include the id property in the element.  You need to add an empty `<ul>` element in this section; you will be adding your GitHub Projects via API call to this empty section using JavaScript later in this course.  
    - [ ] The navigation menu should include a link to each of your sections (i.e. "About", "Experience", "Skills", "Projects", "Connect")
      - [ ] STRETCH GOAL (Optional) Make the header sticky/fixed on the page using code in your index.css file.
    - [ ] In your index.css file, change the layout of your "Experience" section using rows and columns so items are displayed in a better layout rather than a list
@@ -17,7 +17,7 @@ Last week you worked with styling.  This week lets work a little more with forma
    - [ ] Also in your index.css file, update the "Connect" section to use Flexbox to improve the layout of your social media icons or links
 **NOTE:** This is the basic rubric, but we encourage you to think beyond this list and come up with your own ideas to make your webpage unique!
 
-**_By the end of this lesson, you should have added navigation to your site that uses internal links to "jump" the user to that section of your page.  You should also have reformatted your Experience and Connect sections using Flexbox css code.  Lastly, your site should have a header for your Skills and Projects sections, but no content there yet._**
+**_By the end of this lesson, you should have added navigation to your site that uses internal links to "jump" the user to that section of your page.  You should also have reformatted your Experience and Connect sections using Flexbox css code.  Lastly, your site should have a header for your Skills and Projects sections, and an empty `<ul>` element in the Projects section, but no content in either section yet._**
 
 ### Backup to the cloud
 Once you've made the above changes to your css file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:
