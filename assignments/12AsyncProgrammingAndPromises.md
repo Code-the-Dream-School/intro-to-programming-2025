@@ -1,10 +1,10 @@
 You were learning about asynchronous programming and promises this week. In our coding assignment though, we'll be building on our HTML and JavaScript skills by creating a form on our HTML page and use the JavaScript file to collect the information from the form and write it back to the HTML document.
 
 ### Get organized and write some code!
-- [ ] In your GitHub repository, if you have not yet merged your pull request from last week, merge your open lesson-13 pull request by going to the "Pull Requests" tab of your repository. Click on your open pull request, then click on the green 'Merge Pull Request" and confirm the merge. This will update your main branch with the work you did on your lesson-13 branch.
-- [ ] Open your code editor and, in the terminal, make sure you're on your main branch. If you're still on your lesson-13 branch, you can switch to your main branch by using the git command `git checkout main`.
-- [ ] Update your local main branch to include your lesson-13 work by pulling your changes from your GitHub repository main. Use the following git command in your terminal to do this: `git pull origin main`
-- [ ] Still in your terminal, create a new local branch to keep track of just the work you'll do for this assignment by running `git checkout -b lesson-14` in the terminal. Doing this also copies the lesson-13 work you merged to main and pulled to your local machine so now all your branches should be identical on your local machine.
+- [ ] In your GitHub repository, if you have not yet merged your pull request from last week, merge your open lesson-11 pull request by going to the "Pull Requests" tab of your repository. Click on your open pull request, then click on the green 'Merge Pull Request" and confirm the merge. This will update your main branch with the work you did on your lesson-11 branch.
+- [ ] Open your code editor and, in the terminal, make sure you're on your main branch. If you're still on your lesson-11 branch, you can switch to your main branch by using the git command `git checkout main`.
+- [ ] Update your local main branch to include your lesson-11 work by pulling your changes from your GitHub repository main. Use the following git command in your terminal to do this: `git pull origin main`
+- [ ] Still in your terminal, create a new local branch to keep track of just the work you'll do for this assignment by running `git checkout -b lesson-12` in the terminal. Doing this also copies the lesson-11 work you merged to main and pulled to your local machine so now all your branches should be identical on your local machine.
 
 ### Assignment: Task List / Deliverables
 
@@ -92,9 +92,9 @@ Once you've made the above changes to your html file, follow the below instructi
 ### Submit Assignment
 Now let's make sure that lesson branch will be reviewed.
 
-- [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-14 has a recent push" notice with a green "Compare & pull request" button. Click that button
+- [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-12 has a recent push" notice with a green "Compare & pull request" button. Click that button
 - [ ] Feel free to put notes to yourself or notes for your reviewer in the description (be sure you're including any questions to your reviewer in your assignment submission form though!) and click the green "Create pull request" button.
-- [ ] Copy the address of your pull request page (should look like https://github.com/yourUsername/name-classname/pull/8) and paste it into your assignment submission form.
+- [ ] Copy the address of your pull request page (should look like https://github.com/yourUsername/name-classname/pull/7) and paste it into your assignment submission form.
 
 ### What next?
 - If you're on track with class, wait to get feedback and/or the email notice that your assignment review is complete before confirming and merging your pull request to the main branch.
