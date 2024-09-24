@@ -73,12 +73,19 @@ You were learning about asynchronous programming and promises this week. In our 
 - [ ] Append the `newMessage` to the `messageList` element
 - [ ] Save and refresh your browser _(or just check your browser for changes if using live extension)_
 
+#### Style your Message Form
+ - [ ] Open your `index.css` file
+ - [ ] Style your message form fields and buttons keeping in mind:
+   - [ ] adequate specing so form fields aren't crowded
+   - [ ] appropriate sizing in media queries so a user on a mobile device can easily touch/tap into the fields to type
+   - [ ] button sizing to accomodate click and touch/tap interactions
+
 #### Stretch Goals
 These tasks are **entirely optional**, but if you'd like a challenge then do your best to complete each item.
 - [ ] (Optional) Hide the #messages section, including the Messages header, when the list is empty
 - [ ] (Optional) Create an "edit" button for each message entry that allows the user to input a new/modified message
 
-**_By the end of this assignment, you should have a form in your HTML document with name, email, message fields and a submit button as well as a messages section.  The code you wrote in your index.js should handle the inputs the user enters into the form and display that information as a name you can click on to email the user and their message with a remove button to remove their message entirely.  If you attempted stretch goals, you should also have a hidden Messages section unless there is a message and/or each message should have an edit button._**
+**_By the end of this assignment, you should have a form in your HTML document with name, email, message fields and a submit button as well as a messages section.  The code you wrote in your index.js should handle the inputs the user enters into the form and display that information as a name you can click on to email the user and their message with a remove button to remove their message entirely.  You should have styling in your index.css file for your message form fields and/or section.  If you attempted stretch goals, you should also have a hidden Messages section unless there is a message and/or each message should have an edit button._**
 
 ### Backup to the cloud
 Once you've made the above changes to your html file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:
