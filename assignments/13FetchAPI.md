@@ -47,7 +47,8 @@ This week you'll have two parts to your coding assignment.  The first completes 
       
 #### Style your Repository List
  - [ ] Open your `index.css` file
- - [ ] Use flexbox (or grid) to style your list of repositories
+ - [ ] Add styling to your projects list, be sure to account for any changes you want in media queries
+ - [ ] STRETCH GOAL: Use flexbox (or grid) to style your list of repositories
 
 **_By the end of this assignment, you should have a working API fetch to your GitHub account and be able to see a list of your repository names in the Projects section of your portfolio.  Were there to be a server error during the API fetch, your site would return an error message.  Your project list should be styled using flexbos or grid._**
 </details>
