@@ -21,6 +21,8 @@ You were learning about asynchronous programming and promises this week. In our 
   5. Each form field should also have a corresponding `<label>` element
   6. (Optional) Use `<br>` elements to stack the form fields
 - [ ] Save and refresh your browser _(or just check your browser for changes if using live extension)_
+- [ ] Add navigation to the message form:
+  - [ ] Add a link in your `<nav>` section that takes the user to the 'Leave a Message' section when clicked
 
 #### Add Message List Section
 - [ ] After the `<section>` element from the previous step, create a new `<section>` element with an `id` of "messages"
