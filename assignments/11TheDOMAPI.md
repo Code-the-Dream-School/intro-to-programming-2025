@@ -59,8 +59,12 @@
   - hint: `appendChild` method
 - Save and refresh your browser _(or just check your browser for changes if using live extension)_
   - You should see your list of skills beneath the "Skills" heading
+ 
+#### Style your skills
+ - [ ] Open your `index.css` file
+ - [ ] Use flexbox or grid to organize and adjust the layout of your list of skills.  Remember to include any adjustments in your media query sections.
 
-**_By the end of this assignment, you should have a js folder with an index.js in it.  The code you wrote in your index.js should have written a footer with your name and the current year to the html document.  Also, an array list of skills in your index.js file should be written to the skills section you created in your html document._**
+**_By the end of this assignment, you should have a js folder with an index.js in it.  The code you wrote in your index.js should have written a footer with your name and the current year to the html document.  Also, an array list of skills in your index.js file should be written to the skills section you created in your html document and should be styled using flexbox or grid._**
 
 ### Backup to the cloud
 Once you've made the above changes to your html file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:
