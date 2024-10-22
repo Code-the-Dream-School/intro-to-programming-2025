@@ -38,6 +38,4 @@ This section contains questions for you to check your understanding of the lesso
 
 
 ## NOTE ABOUT YOUR CODING ASSIGNMENT: 
-Due to changes in replit, the weeks 2 AND 3 coding assignments are in the one link provided this week.  Please be sure to stop where it says "LESSON 3 OBJECTS" (see screenshot below) in comments unless you are intentionally working ahead.  Next week you will go back to the same repl you are working on this week and complete from Lesson 3 Objects to the end.
-
-![Lesson 3 Objects Heading in Replit assignment](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/85acdc70efed7cae4b1efa902307f44827380599/images/lesson3header.png)
+During the beginning of class we switched from replit to codesandbox.  Because of this switch, we did not have to combine weeks 2 and 3 into one assignment.  Please click on the link to your coding assignment in the Coding Assignment section below, and proceed with completing all of the questions in that assignment.
