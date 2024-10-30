@@ -40,5 +40,10 @@ For the Odin Project, Go to each link in this list and read through the content 
 - [V2 Scrimba - JS Deep Dive - Types & Conditionals](https://v2.scrimba.com/javascript-deep-dive-c0a/~0g)
 - [V2 Scrimba - JS Deep Dive - Functions](https://v2.scrimba.com/javascript-deep-dive-c0a/~0q)
 
+#### NOTE: If you can't access the Scrimba content without getting an alert that the content is only available to subscribers use the version 1 links instead:
+- [variables and strings](https://v1.scrimba.com/playlist/pP4kQtV)
+- [types & conditionals](https://v1.scrimba.com/playlist/p6wbDsY)
+- [functions](https://v1.scrimba.com/playlist/pVLDVUE)
+
 ### JavaScript Info on Date and Time - read this content in addition to either Odin or Scrimba
 - [JavaScript.info – Working with Dates and Times](https://javascript.info/date)
