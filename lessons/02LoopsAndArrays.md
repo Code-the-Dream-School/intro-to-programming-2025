@@ -2,6 +2,7 @@ You can either use the written Odin Project lessons or the video lessons in Scri
 
 - [V2 Scrimba - JS Deep Dive - Arrays](https://v2.scrimba.com/javascript-deep-dive-c0a/~01h)
 - **NOTE: Watch only the first four videos in this playlist ( (1) Module Intro: Arrays, (2) Build Flexible Collections with Arrays, (3) Challenge: Your First Array, and (4) Check Element Existence in Arrays ). The rest of the topics we will cover in Week 5.**
+  - **If you are getting an alert saying "Only available to subscribers" when trying to access the JS Deep Dive - Arrays content, you will need to use version 1 instead: [Version 1 - Deep Dive - Arrays](https://v1.scrimba.com/playlist/p7waXtk)**
 
 The following material is an excerpt from The Odin Project – Fundamentals Part 4.  That section also covers Array Methods and Test Driven Development which will be covered later in this class. For convenience we've copied the Loop, Array, and Knowledge Check information from the Fundamentals Part 4 section below.
 
