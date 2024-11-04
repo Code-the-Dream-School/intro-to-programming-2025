@@ -2,7 +2,7 @@
 - **NOTE: Watch only the rest of the videos in the playlist (the last 3 you were instructed to skip last week).**
   - **If you are getting an alert "Only available to subscribers" you will need to use the version 1 link instead: [Version 1 - Deep Dive - Objects](https://v1.scrimba.com/learn/javascript/module-intro-objects-maps-cdNZ62Hv)  Remember to start at the 9th part titled "How Maps can do what Objects can't" and go to the end of the Objects section**
 
-- The section on Intermediate/advanced array magic that you could skip in last week's Odin Project Fundamentals part 5 link is here:
+- The section on "Intermediate/advanced array magic" that you could skip in last week's Odin Project Fundamentals part 5 is now included in the following section for you to check out this week:
 
 > ### Intermediate/advanced array magic
 >
