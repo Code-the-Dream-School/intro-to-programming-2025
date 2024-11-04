@@ -4,7 +4,7 @@ Students have access to **[V2 Scrimba - Courses](https://v2.scrimba.com/courses)
 
 The interface probably will look a little different than other video-based learning tools (e.g. Treehouse, Udemy, Khan Academy, etc.). Once logged in you can access the course library from the **Courses** link in the menu. 
 
-![V2 Course Menu](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/0431b040aa24c477fb906fe1842119219790a7af/v2Scrimba%20Course%20Menu.png?raw=true)
+![V2 Course Menu](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/images/v2ScrimbaMenu.png?raw=true)
 
 The Scrimba Courses Library page will show all courses and you can filter by Topic and choose the course you want to look at. Each week, there will be links to specific course lesson material that will cover the topics for that week.
 
