@@ -3,7 +3,7 @@ You can either use the written Odin Project lessons or the video lessons in Scri
 Rememebr to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
 
 ### The Odin Project Links:
-- **[The Odin Project – Intro to CSS](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations)**
+- **[The Odin Project – Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)**
 - **[The Odin Project - The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)**
 - **[The Odin Project - Inspect HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)**
 - **[The Odin Project – The Box Model](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/the-box-model)**
