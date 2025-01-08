@@ -1,0 +1,25 @@
+# Welcome International Coders!
+
+Thank you for your interest in our program. Since we aren't able to accommodate international students, we can at least offer our curriculum to anyone who wants to self-study!
+
+This repository contains all the lesson and coding assignment information we currently offer in our Intro to Programming JavaScript class.  Please use the table below to work through the 15 weeks of course content.  Look at your lesson materials first, then attempt the coding assignment.  Scrimba (a lesson material we recommend) does require a paid subscription to their pro content), if you aren't able to afford it, we recommend sticking to using the Odin Project resources we share as they are free and open-source, and use the free Scrimba lessons where available. 
+
+Since you don't have the time constraints of a course with our program, feel free to spend multiple weeks on concepts that are challenging for you or work through several weeks in a shorter period of time.  We particularly recommend spending a couple weeks extra on the first four lessons, especially if you are new to JavaScript.  Happy learning!
+
+| Week # | Lesson Materials Link | Coding Assignment Link |
+| ------------- | ------------- | ------------- |
+| 1 | [JavaScript Basics and Functions](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/01JavaScriptBasicsAndFunctions.md) | [CodeSandbox Assignment 1](https://codesandbox.io/p/sandbox/lesson-1-javascript-basics-and-functions-v2hkn9) |
+| 2 | [JavaScript Loops and Arrays](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/02LoopsAndArrays.md) | [CodeSandbox Assignment 2](https://codesandbox.io/p/sandbox/lesson-2-javascript-loops-and-arrays-nxy4qp) |
+| 3 | [JavaScript Objects](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/03Objects.md) | [CodeSandbox Assignment 3](https://codesandbox.io/p/sandbox/lesson-3-javascript-objects-dtfvkv) |
+| 4 | [JavaScript Array Methods](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/04ArrayMethods.md) | [CodeSandbox Assignment 4](https://codesandbox.io/p/sandbox/lesson-4-javascript-array-methods-llrf7c) |
+| 5 | [git Basics](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/05gitBasics.md) | [Start your portfolio - Assignment 5](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/05gitBasics.md) |
+| 6 | [A Deeper Look at Git](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/06DeeperLookAtGit.md) | [Assignment 6](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/06DeeperLookAtGit.md) |
+| 7 | [Understanding the Web and HTML](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/07UnderstandingTheWebAndHTML.md) | [Assignment 7](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/07UnderstandingTheWebAndHTML.md) |
+| 8 | [CSS Basics](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/08CSSBasics.md) | [Assignment 8](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/08CSSBasics.md) |
+| 9 | [CSS Layout](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/09CSSLayout.md) | [Assignment 9](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/09CSSLayout.md) |
+| 10 | [Responsive Design](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/10ResponsiveDesign.md) | [Assignment 10](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/10ResponsiveDesign.md) |
+| 11 | [The DOM API](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/11TheDOMAPI.md) | [Assignment 11](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/11TheDOMAPI.md) |
+| 12 | [Async Programming and Promises](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/12AsyncProgrammingAndPromises.md) | [Assignment 12](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/12AsyncProgrammingAndPromises.md) |
+| 13 | [Fetch API](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/13FetchAPI.md) | [Assignment 13](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/13FetchAPI.md) |
+| 14 | [Node NPM and Packages](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/14NodeNPMandPackages.md) | [Assignment 14](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/14NodeNPMandPackages.md) |
+| 15 | [Final Projects](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/lessons/15FinalProject.md) | [Assignment 15](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/main/assignments/15FinalProject.md) |
