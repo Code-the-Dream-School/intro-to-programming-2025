@@ -33,24 +33,24 @@ You can record your presentation in any of these three ways:
 <details>
 <summary>Click here to expand detailed instructions on how to upload your recording</summary>
 <br>
-<h4>Step 1: Make sure you're logged in to youtube.  If you don't have a youtube account you can create one [using these instructions](https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform%3DDesktop)</h4>
+<h4>1. Make sure you're logged in to youtube.  If you don't have a youtube account you can create one [using these instructions](https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform%3DDesktop)</h4>
  <p>You will know you're logged in if you have an initial/icon/other in the top right corner (where the M in the brown circle is on this screenshot:</p>
  ![User logged in to youtube account](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.20%E2%80%AFPM.png?raw=true)
 
- <h4>Click `+ Create` in the top right and select `Upload video`</h4>
+ <h4>2. Click `+ Create` in the top right and select `Upload video`</h4>
  ![Create menu expanded](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.27%E2%80%AFPM.png?raw=true)
 
- <h4>In the Upload videos window that appears, click the black `Select files` button</h4>
+ <h4>3. In the Upload videos window that appears, click the black `Select files` button</h4>
  <p>You'll need to select the file of your recording you have saved on your computer.</p>
  ![Upload videos modal](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.35%E2%80%AFPM.png?raw=true)
 
-<h4>The fle title will be the default video title.  You can change this to include your name and "Intro to Programming Final Project Presentation"</h4>
+<h4>4. The fle title will be the default video title.  You can change this to include your name and "Intro to Programming Final Project Presentation"</h4>
 ![Edit Video Details title](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.17%E2%80%AFPM.png?raw=true)
 
-<h4>Scroll down under the title; select "No, it's not made for kids" and click on the `Show more` gray button to make further setting changes</h4>
+<h4>5. Scroll down under the title; select "No, it's not made for kids" and click on the `Show more` gray button to make further setting changes</h4>
 ![Adjust video settings](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.30%E2%80%AFPM.png?raw=true)
 
-<h4>You'll want to be sure the following options for some of the sections that appear after click `Show more` are set to the following:</h4>
+<h4>6. You'll want to be sure the following options for some of the sections that appear after click `Show more` are set to the following:</h4>
 
  - [ ] Altered content: select "No" since you have not used AI to alter reality in your video
  
