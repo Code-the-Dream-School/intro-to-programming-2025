@@ -33,7 +33,9 @@ You can record your presentation in any of these three ways:
 <details>
 <summary>Click here to expand detailed instructions on how to upload your recording</summary>
 <br>
-<h4>1. Make sure you're logged in to youtube.  If you don't have a youtube account you can create one [using these instructions](https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform%3DDesktop)</h4>
+<h4>1. Make sure you're logged in to youtube.</h4>
+ <p>If you don't have a youtube account you can create one 
+ [using these instructions](https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform%3DDesktop)</p>
  <p>You will know you're logged in if you have an initial/icon/other in the top right corner (where the M in the brown circle is on this screenshot:</p>
  
  ![User logged in to youtube account](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.20%E2%80%AFPM.png?raw=true)
