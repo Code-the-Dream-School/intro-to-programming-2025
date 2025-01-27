@@ -18,7 +18,7 @@ It is good practice to talk about what you have learned and know about project a
  - [ ] Enter Inspector/Developer Mode to demonstrate how your portfolio looks on different device sizes
  - [ ] Scroll the length of your Open API project to show your format and styling of your content
  - [ ] Demonstrate your navigation to show that both required endpoints are displaying to the user
- - [ ] Enter Inspector/Developer Mode to demonstrate how your portfolio looks on different device sizes
+ - [ ] Enter Inspector/Developer Mode to demonstrate how your API project looks on different device sizes
  - [ ] Share what the most challenging part of either/both projects and what you enjoyed working on the most in either/both projects
 
 Rubric details for the Portfolio Project and the Open API Project can be seen below.  Be sure both your projects meet the requirements specified for each.
