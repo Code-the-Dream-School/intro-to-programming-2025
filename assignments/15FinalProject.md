@@ -83,6 +83,8 @@ You can record your presentation in any of these three ways:
 ### Submitting your recording
 Once you have recorded your presentation, please **[USE THIS LINK TO SUBMIT YOUR RECORDING OF YOUR FINAL PROJECT PRESENTATION](https://airtable.com/appoSRJMlXH9KvE6w/shrhWslj8PfJ8qmOA)**
 
+You can watch a video on how to submit your recording [by clicking this link](https://youtu.be/bKPglZS2UTU)
+
 ## Portfolio Project
 <details>
 <summary>Click here to expand the Portfolio Project rubric</summary>
