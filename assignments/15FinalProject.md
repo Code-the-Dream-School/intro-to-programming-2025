@@ -26,8 +26,10 @@ Rubric details for the Portfolio Project and the Open API Project can be seen be
 ### How to record your presentation
 You can record your presentation in any of these three ways: 
  1. Logging into your personal Zoom account and record your personal meeting where only you are in attendance and you are screensharing your work ([this is a link to a video on how to do this](https://www.youtube.com/watch?v=njwbjFYCbGU))
- 2. Use a screen recording program already on your machine ([this link is a video on how to do this for Mac users](https://www.youtube.com/watch?v=w9Byefp51tY) and [this link is a video on how to do this for Windows users](https://www.youtube.com/watch?v=PJB7pM5bvNI))
- 3. Use an online option such as loom ([link to a how to video on loom here](https://www.youtube.com/watch?v=oAdLPbfXcQo)).
+ 2. Use a screen recording program already on your machine
+    * [Mac users can use this link to watch a how-to video](https://www.youtube.com/watch?v=w9Byefp51tY)
+    * [Windows users can use this link to watch a how-to video](https://www.youtube.com/watch?v=PJB7pM5bvNI)
+ 4. Use an online option such as loom ([link to a how to video on loom here](https://www.youtube.com/watch?v=oAdLPbfXcQo)).
 
 ### How to upload your video so it can be shared
 <details>
