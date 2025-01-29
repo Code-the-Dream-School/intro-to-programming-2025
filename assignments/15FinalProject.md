@@ -204,7 +204,8 @@ Use one of the following open source APIs to create a site that accesses a minim
 * [Marvel](https://developer.marvel.com/) – an API about the Marvel fandom
 * [ARTIC](https://api.artic.edu/docs/#introduction) – an art API from the Art Institute of Chicago
 * [TheDogAPI](https://thedogapi.com/) or the [TheCatAPI](https://thecatapi.com/) – APIs about (you guessed it!) Dogs or Cats
-* [SampleAPIs](https://sampleapis.com/api-list/coffee) – an API for coffee lovers
+* [Soccer](https://api-sports.io/documentation/football/v3) - for all the Soccer lovers out there
+* DEPRECATED, certificate expired - [SampleAPIs](https://sampleapis.com/api-list/coffee) – an API for coffee lovers
 
 Be sure to satisfy the below requirements in your Open API Project:
 
