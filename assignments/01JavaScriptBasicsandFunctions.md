@@ -1,4 +1,5 @@
-[Link to CodeSandbox assignment](https://codesandbox.io/p/sandbox/lesson-1-javascript-basics-and-functions-2025-nrfx4t?file=%2Fsrc%2Findex.mjs)
+**NOTE: If the CodeSandbox file gets updated, the code example below may not be up to date.  You can confirm the most recent version of this assignment by clicking this:**
+[Link to CodeSandbox Assignment](https://codesandbox.io/p/sandbox/lesson-1-javascript-basics-and-functions-2025-nrfx4t?file=%2Fsrc%2Findex.mjs)
 
 ``` javascript
 //--------------- IMPORTANT!!! ---------------
