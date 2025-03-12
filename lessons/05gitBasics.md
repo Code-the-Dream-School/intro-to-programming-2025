@@ -34,6 +34,3 @@ An algorithm is like a secret recipe that lays out a series of steps. If you sti
 2. Read this [article](https://www.geeksforgeeks.org/introduction-to-algorithms/).  We won’t be getting into the types of algorithms but it’s a good overview of how algorithms are part of a developer’s daily life. 
 3. Once again, same info, but [a video](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) from Khan Academy.
 
-_**If you would like practice on algorithms, revisit your coding assignment from last week!  Go to replit.com, click on your username in the top right corner of the page and select Lesson 4 - Array Methods and Algorithm Stretch Goal from your list of public repls then scroll down to the Stretch Goal on Algorithms Below header to find practice exercises.  The header should look like this:**_
-
-![Algorithms Stretch Goal Replit Header](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/491fc8688a19073005f1ba112b45abc420bf6b84/images/algorithmsheader.png)
