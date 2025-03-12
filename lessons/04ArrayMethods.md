@@ -108,11 +108,3 @@ const evenNumbers = numbers.filter(function(num) {
 ```
 
 **Note:**  There are many more of these type of methods, but do not worry about knowing how to use all of them, starting with a few is good enough.
-
-
-## NOTE ABOUT YOUR CODING ASSIGNMENT:
-This week's coding assignment has the stretch goal OPTIONAL work for next week's lesson on git Basics (and algorithms if you complete the stretch goal part of the lesson).  When you fork this week's replit assignment, you ONLY NEED TO COMPLETE THE QUESTIONS THAT COME BEFORE THE STRETCH GOAL ON ALGORTIHMS HEADER.  So when you see this in your code:
-
-![Stretch Goal for Algorithms Replit Header](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/491fc8688a19073005f1ba112b45abc420bf6b84/images/algorithmsheader.png)
-
-You can stop!  Next week you can revisit your repl and work on the algorithm stretch goal if you like.
