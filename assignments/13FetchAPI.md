@@ -62,12 +62,14 @@ An "open source" means that the source code of something is freely available and
 **NOTE:** You have from now until the end of class to have your Open API Project meeting the requirements.  Think about what you want to build and how you want your site to look and then break the work into parts to pace yourself.
 
 ### Open Source API options:
- - [Open-Meteo](https://open-meteo.com/) – a weather API
- - [Swapi.Tech](https://www.swapi.tech/) – an API about Star Wars films
- - [Marvel](https://developer.marvel.com/) – an API about the Marvel fandom
- - [ARTIC](https://api.artic.edu/docs/#introduction) – an art API from the Art Institute of Chicago
- - [TheDogAPI](https://thedogapi.com/) or the [TheCatAPI](https://thecatapi.com/) – APIs about (you guessed it!) Dogs or Cats
- - [SampleAPIs](https://sampleapis.com/api-list/coffee) – an API for coffee lovers
+ 
+* [Open-Meteo](https://open-meteo.com/) – a weather API
+* [Swapi.Tech](https://www.swapi.tech/) – an API about Star Wars films
+* [Marvel](https://developer.marvel.com/) – an API about the Marvel fandom
+* [ARTIC](https://api.artic.edu/docs/#introduction) – an art API from the Art Institute of Chicago
+* [TheDogAPI](https://thedogapi.com/) or the [TheCatAPI](https://thecatapi.com/) – APIs about (you guessed it!) Dogs or Cats
+* [Soccer](https://api-sports.io/documentation/football/v3) - for all the Soccer lovers out there
+* DEPRECATED, certificate expired - [SampleAPIs](https://sampleapis.com/api-list/coffee) – an API for coffee lovers
 
 This week, just focus on accomplishing the following:
  - [ ] Familiarize yourself with the documentation of whichever API you decide to use
