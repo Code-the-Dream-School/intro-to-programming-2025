@@ -81,9 +81,8 @@ You can record your presentation in any of these three ways:
 </details>
 
 ### Submitting your recording
-Once you have recorded your presentation, please **[USE THIS LINK TO SUBMIT YOUR RECORDING OF YOUR FINAL PROJECT PRESENTATION](https://airtable.com/appoSRJMlXH9KvE6w/shrhWslj8PfJ8qmOA)**
+Once you have recorded your presentation, please use your regular Lesson Assignment Submission Form for this week (Lesson 15) to turn in your final projects and your recording. The parts of the form regarding the video are at the very bottom.  You will also indicating what class you'd like to take next.  Your final projects will be reviewed during the week following the official last day of class and you'll receive email(s) with results of that review and any next steps with our program. 
 
-You can watch a video on how to submit your recording [by clicking this link](https://youtu.be/bKPglZS2UTU)
 
 ## Portfolio Project
 <details>
