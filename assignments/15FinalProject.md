@@ -83,6 +83,8 @@ You can record your presentation in any of these three ways:
 ### Submitting your recording
 Once you have recorded your presentation, please use your regular Lesson Assignment Submission Form for this week (Lesson 15) to turn in your final projects and your recording. The parts of the form regarding the video are at the very bottom.  You will also indicating what class you'd like to take next.  Your final projects will be reviewed during the week following the official last day of class and you'll receive email(s) with results of that review and any next steps with our program. 
 
+You can view the gallery of your and your classmates' final project presentations here: [Kepler Final Project Presentations](https://airtable.com/appoSRJMlXH9KvE6w/shrq95dhzEdxNRsvc)
+
 
 ## Portfolio Project
 <details>
