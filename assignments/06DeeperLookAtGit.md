@@ -8,4 +8,4 @@ There is no coding assignment to work on or turn in this week so please enter "n
 
 **REMINDER**
 
-If you are completing work on the Algorithms Stretch Goal this lesson, you should go to your "Lesson 4 - Array Methods and Algorithm Stretch Goal" repl from last week's coding assignment and work on the practice exercises below the "Stretch Goal on Algorithms Below" header in the code.
+If you are completing work on the Algorithms Stretch Goal this lesson, you should go to your "Lesson 5 - STRETCH GOAL (OPTIONAL): Intro to Algorithms" of your Lesson Materials and work on the Scrimba - JavaScript Interview Challenges linked in that section.
