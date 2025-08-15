@@ -9,11 +9,20 @@ Read through the first two links which help explain git branching and merges, th
 
 _**You’ll need to click the link above or click the link where the video would be displayed to redirect to YouTube to watch the video.  The creator has disabled embedding on their video.**_  
 
+#### <ins>UPDATE to curriculum as of 8/15/25:</ins>
+
+Originally we also suggested the following Coursera course:
 * [Coursera: git - GitHub introduction](https://www.coursera.org/learn/introduction-git-github) (a free full course on it that covers a lot more)
 
-**NOTE:** Coursera may indicate you can only access this lesson with a free 7-day trial.  You can avoid this by clicking on "Enroll for Free" the clicking the small "Audit this course" link at the bottom (see image below...)  If you already have your own personal Coursera account, you won't be offered the audit option so please reach out to your Cohort Leader for assistance.  
+**HOWEVER** this Coursera lesson can only be accessed with a free 7-day trial.  You would have to provide a credit card number **_and remember to cancel your free trial before the end of the 7 days in order to not be charged._**  If you think you would be able to afford and would want to take other Coursera courses, feel free to use this tool.
 
-![7-day free trial modal](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/b3d6133ab2aa15b3232ffdcd36ac8f5d4bf47d97/Audit.png?raw=true) 
+**ALTERNATIVELY**
+These documents and videos are directly from git and GitHub on how to understand and use git version control and GitHub.  Please refer to these to assist in your learning about git and GitHub this week:
+
+ * [Reference manual and Introduction Videos - sourced from git documentation](https://git-scm.com/doc)
+ * [git Basics - sourced from GitHub documentation](https://docs.github.com/en/get-started/git-basics)
+ * [Using git - sourced from GitHub documentation](https://docs.github.com/en/get-started/using-git)
+ 
 
 ***
 
