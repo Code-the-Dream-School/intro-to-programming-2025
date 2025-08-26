@@ -15,13 +15,13 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project - Introduction to Accessibility](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-introduction-to-web-accessibility)**
 
 ### Scrimba Links:
-- **[Scrimba - HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l/~00)**
-- **[Let’s write some HTML!](https://v2.scrimba.com/html-css-crash-course-c02l/~04)**
-- **[strong and emphasis](https://v2.scrimba.com/html-css-crash-course-c02l/~05)**
-- **[File naming and organization](https://v2.scrimba.com/html-css-crash-course-c02l/~06)**
-- **[Anchors and Attributes](https://v2.scrimba.com/html-css-crash-course-c02l/~07)**
-- **[Lists](https://v2.scrimba.com/html-css-crash-course-c02l/~0c)**
-- **[Images](https://v2.scrimba.com/html-css-crash-course-c02l/~0d)**
+- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l)**
+- **[Let’s write some HTML!](https://scrimba.com/html-css-crash-course-c02l/~04)**
+- **[strong and emphasis](https://scrimba.com/html-css-crash-course-c02l/~05)**
+- **[File naming and organization](https://scrimba.com/html-css-crash-course-c02l/~06)**
+- **[Anchors and Attributes](https://scrimba.com/html-css-crash-course-c02l/~07)**
+- **[Lists](https://scrimba.com/html-css-crash-course-c02l/~0c)**
+- **[Images](https://scrimba.com/html-css-crash-course-c02l/~0d)**
 
 ### HTML
 
