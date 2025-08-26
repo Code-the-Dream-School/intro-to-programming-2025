@@ -8,7 +8,7 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project – Introduction to Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-flexbox)**
 
 ### Scrimba Links:
-- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l/~00)**
+- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l)**
 - **[A basic layout](https://scrimba.com/html-css-crash-course-c02l/~0o)**
 - **[A basic layout - centering an element on the page](https://scrimba.com/html-css-crash-course-c02l/~0p)**
 - **[Creating columns with flexbox](https://scrimba.com/html-css-crash-course-c02l/~0q)**
