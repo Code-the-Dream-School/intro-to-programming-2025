@@ -10,15 +10,15 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project – Block and Inline](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/block-and-inline)**
 
 ### Scrimba Links:
-- **[Scrimba - HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l/~00)**
-- **[Intro to CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~08)**
-- **[CSS Basics](https://v2.scrimba.com/html-css-crash-course-c02l/~09)**
-- **[Internal CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~0f)**
-- **[External CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~0g)**
-- **[Classes and IDs](https://v2.scrimba.com/html-css-crash-course-c02l/~0h)**
-- **[Intro to the Box Model](https://v2.scrimba.com/html-css-crash-course-c02l/~0k)**
-- **[Margin and Padding](https://v2.scrimba.com/html-css-crash-course-c02l/~0l)**
-- **[Borders](https://v2.scrimba.com/html-css-crash-course-c02l/~0m)**
+- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l/~00)**
+- **[Intro to CSS](https://scrimba.com/html-css-crash-course-c02l/~08)**
+- **[CSS Basics](https://scrimba.com/html-css-crash-course-c02l/~09)**
+- **[Internal CSS](https://scrimba.com/html-css-crash-course-c02l/~0f)**
+- **[External CSS](https://scrimba.com/html-css-crash-course-c02l/~0g)**
+- **[Classes and IDs](https://scrimba.com/html-css-crash-course-c02l/~0h)**
+- **[Intro to the Box Model](https://scrimba.com/html-css-crash-course-c02l/~0k)**
+- **[Margin and Padding](https://scrimba.com/html-css-crash-course-c02l/~0l)**
+- **[Borders](https://scrimba.com/html-css-crash-course-c02l/~0m)**
 
 ### CSS
 
