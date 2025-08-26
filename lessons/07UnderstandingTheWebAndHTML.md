@@ -15,13 +15,14 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project - Introduction to Accessibility](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-introduction-to-web-accessibility)**
 
 ### Scrimba Links:
-- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l)**
-- **[Let’s write some HTML!](https://scrimba.com/html-css-crash-course-c02l/~04)**
-- **[strong and emphasis](https://scrimba.com/html-css-crash-course-c02l/~05)**
-- **[File naming and organization](https://scrimba.com/html-css-crash-course-c02l/~06)**
-- **[Anchors and Attributes](https://scrimba.com/html-css-crash-course-c02l/~07)**
-- **[Lists](https://scrimba.com/html-css-crash-course-c02l/~0c)**
-- **[Images](https://scrimba.com/html-css-crash-course-c02l/~0d)**
+**[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l)**
+- Complete the following sections of the above course:
+  - **Let’s write some HTML!**
+  - **strong and emphasis**
+  - **File naming and organization**
+  - **Anchors and Attributes**
+  - **Lists**
+  - **Images**
 
 ### HTML
 
