@@ -8,13 +8,13 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project – Introduction to Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-flexbox)**
 
 ### Scrimba Links:
-- **[Scrimba - HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l/~00)**
-- **[A basic layout](https://v2.scrimba.com/html-css-crash-course-c02l/~0o)**
-- **[A basic layout - centering an element on the page](https://v2.scrimba.com/html-css-crash-course-c02l/~0p)**
-- **[Creating columns with flexbox](https://v2.scrimba.com/html-css-crash-course-c02l/~0q)**
-- **[Creating the layout from scratch - the HTML](https://v2.scrimba.com/html-css-crash-course-c02l/~0r)**
-- **[Creating the layout - The CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~0s)**
-- **[Scrimba - Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k/~00)**
+- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l/~00)**
+- **[A basic layout](https://scrimba.com/html-css-crash-course-c02l/~0o)**
+- **[A basic layout - centering an element on the page](https://scrimba.com/html-css-crash-course-c02l/~0p)**
+- **[Creating columns with flexbox](https://scrimba.com/html-css-crash-course-c02l/~0q)**
+- **[Creating the layout from scratch - the HTML](https://scrimba.com/html-css-crash-course-c02l/~0r)**
+- **[Creating the layout - The CSS](https://scrimba.com/html-css-crash-course-c02l/~0s)**
+- **[Scrimba - Learn Flexbox](https://scrimba.com/learn-flexbox-c0k/~00)**
 
 ### ADDITIONAL RESOURCES:
 It's been a while since we gave you a fun game! Check out [Flexbox Froggy](https://flexboxfroggy.com/) for a fun way to practice writing your CSS flexbox model code
