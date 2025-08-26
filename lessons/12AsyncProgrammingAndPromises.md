@@ -3,9 +3,12 @@ Go through **both** resources (Odin **and** Scrimba) for this topic as they will
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
 
 - **[The Odin Project – Asynchronous Code](https://www.theodinproject.com/lessons/node-path-javascript-asynchronous-code)**
-- **[Scrimba - JavaScript Deep Dive - Async JS - Fix Callback Hell with Promises](https://v2.scrimba.com/javascript-deep-dive-c0a/~02o)**
-- **[Scrimba - Introduction to ES6+ - Promises](https://v2.scrimba.com/introduction-to-es6-c0t/~0q)**
-- **[Scrimba - Introduction to ES6+ - Challenge: Promises](https://v2.scrimba.com/introduction-to-es6-c0t/~0r)**
+- **[Scrimba - JavaScript Deep Dive](https://scrimba.com/javascript-deep-dive-c0a)**
+  - Go to the Async JavaScript section and complete only the Fix Callback Hell with Promises subsection
+- **[Scrimba - Introduction to ES6+](https://scrimba.com/introduction-to-es6-c0t)**
+  - Scroll about 2/3rds down the list of sections in the ES6+ Course and complete the following sections:
+    - Promises
+    - Challenge: Promises
 
 ## Synchronous vs. Asynchronous code
 
