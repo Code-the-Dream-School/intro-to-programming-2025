@@ -13,8 +13,8 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project - Advanced Grid Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-advanced-grid-properties)**
 
 ### Scrimba Links:
-- **[Scrimba - Learn Responsive Web Design](https://v2.scrimba.com/learn-responsive-web-design-c029/~01)** - NOTE: Begin with the "Starting to think responsively" lesson since the fundamentals videos cover things you've learned in previous weeks.
-- **[Scrimba - Learn CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k/~00)**
+- **[Scrimba - Learn Responsive Web Design](https://scrimba.com/learn-responsive-web-design-c029)** - NOTE: Begin with the "Starting to think responsively" lesson since the fundamentals videos cover things you've learned in previous weeks.
+- **[Scrimba - Learn CSS Grid](https://scrimba.com/learn-css-grid-c02k)**
 
 ### ADDITIONAL RESOURCES (same as the stretch goal last week):
 - **[CSS Grid Model guide](https://css-tricks.com/snippets/css/complete-guide-grid/)**
