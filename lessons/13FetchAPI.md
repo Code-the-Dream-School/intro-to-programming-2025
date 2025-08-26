@@ -5,11 +5,14 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project – JSON](https://www.theodinproject.com/lessons/node-path-javascript-json)**
 - **[The Odin Project – Working with APIs](https://www.theodinproject.com/lessons/node-path-javascript-working-with-apis)**
 - **[The Odin Project - Async and Await](https://www.theodinproject.com/lessons/node-path-javascript-async-and-await)**
-- **[Scrimba - JS Deep Dive - Async JS - Make Network Requests with fetch()](https://v2.scrimba.com/javascript-deep-dive-c0a/~02p)**
-- **[Scrimba - JS Deep Dive - Async JS - Challenge: Fetch API](https://v2.scrimba.com/javascript-deep-dive-c0a/~02q)**
-- **[Scrimba - JS Deep Dive - Async JS - Promises with async-await](https://v2.scrimba.com/javascript-deep-dive-c0a/~02r)**
-- **[Scrimba  - JS Deep Dive - Async JS - Catch Errors with async-await](https://v2.scrimba.com/javascript-deep-dive-c0a/~02s)**
-- **[Scrimba - Introduction to ES6+ - Async & Await](https://v2.scrimba.com/introduction-to-es6-c0t/~0u)**
+- **[Scrimba - JS Deep Dive](https://scrimba.com/javascript-deep-dive-c0a)**
+  - Go to the Async JavaScript section and complete the following subsections:
+    - Make Network Requests with fetch()
+    - Challenge: Fetch API
+    - Dead-Simple Promises with async-await
+    - Catch Errors with async-await
+- **[Scrimba - Introduction to ES6+](https://scrimba.com/introduction-to-es6-c0t)**
+  - Scroll to almost the bottom of the above course and complete the section called Async & Await
 
 ### The fetch API
 
