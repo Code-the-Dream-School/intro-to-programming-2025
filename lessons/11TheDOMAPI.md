@@ -9,8 +9,8 @@ Remember to please go to each link in this list and read through the content on 
 ### Scrimba Links:
 **[Scrimba - JavaScript Deep Dive](https://scrimba.com/javascript-deep-dive-c0a)**
 - Complete the following sections of the above course:
-- **What is the DOM?**
-- **Get Single and Multiple Elements**
-- **Creating and Modifying HTML Elements**
-- **Dynamically Adding Styles**
-- **Understand and Work with Events**
+  - **What is the DOM?**
+  - **Get Single and Multiple Elements**
+  - **Creating and Modifying HTML Elements**
+  - **Dynamically Adding Styles**
+  - **Understand and Work with Events**
