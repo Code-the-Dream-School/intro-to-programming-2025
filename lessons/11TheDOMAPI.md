@@ -7,8 +7,10 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project - Form Basics](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-form-basics)**
 
 ### Scrimba Links:
-- **[What is the DOM?](https://v2.scrimba.com/javascript-deep-dive-c0a/~02e)**
-- **[Get Single and Multiple Elements](https://v2.scrimba.com/javascript-deep-dive-c0a/~02f)**
-- **[Creating and Modifying HTML Elements](https://v2.scrimba.com/javascript-deep-dive-c0a/~02g)**
-- **[Dynamically Adding Styles](https://v2.scrimba.com/javascript-deep-dive-c0a/~02i)**
-- **[Understand and Work with Events](https://v2.scrimba.com/javascript-deep-dive-c0a/~02j)**
+**[Scrimba - JavaScript Deep Dive](https://scrimba.com/javascript-deep-dive-c0a)**
+- Complete the following sections of the above course:
+- **What is the DOM?**
+- **Get Single and Multiple Elements**
+- **Creating and Modifying HTML Elements**
+- **Dynamically Adding Styles**
+- **Understand and Work with Events**
