@@ -10,15 +10,16 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project – Block and Inline](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/block-and-inline)**
 
 ### Scrimba Links:
-- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l)**
-- **[Intro to CSS](https://scrimba.com/html-css-crash-course-c02l/~08)**
-- **[CSS Basics](https://scrimba.com/html-css-crash-course-c02l/~09)**
-- **[Internal CSS](https://scrimba.com/html-css-crash-course-c02l/~0f)**
-- **[External CSS](https://scrimba.com/html-css-crash-course-c02l/~0g)**
-- **[Classes and IDs](https://scrimba.com/html-css-crash-course-c02l/~0h)**
-- **[Intro to the Box Model](https://scrimba.com/html-css-crash-course-c02l/~0k)**
-- **[Margin and Padding](https://scrimba.com/html-css-crash-course-c02l/~0l)**
-- **[Borders](https://scrimba.com/html-css-crash-course-c02l/~0m)**
+**[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l)**
+- Complete the following sections of the above Course:
+  - **Intro to CSS**
+  - **CSS Basics**
+  - **Internal CSS**
+  - **External CSS**
+  - **Classes and IDs**
+  - **Intro to the Box Model**
+  - **Margin and Padding**
+  - **Borders**
 
 ### CSS
 
