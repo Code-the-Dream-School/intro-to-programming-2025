@@ -10,7 +10,7 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project – Block and Inline](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/block-and-inline)**
 
 ### Scrimba Links:
-- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l/~00)**
+- **[Scrimba - HTML & CSS Crash Course](https://scrimba.com/html-css-crash-course-c02l)**
 - **[Intro to CSS](https://scrimba.com/html-css-crash-course-c02l/~08)**
 - **[CSS Basics](https://scrimba.com/html-css-crash-course-c02l/~09)**
 - **[Internal CSS](https://scrimba.com/html-css-crash-course-c02l/~0f)**
